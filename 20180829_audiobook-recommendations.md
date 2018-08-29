@@ -13,8 +13,8 @@ This is the story of how their minds worked and what made them so inventive. Itâ
 For an era that seeks to foster innovation, creativity, and teamwork, The Innovators shows how they happen.
 
 ## [In the Plex](https://www.audible.com/pd/In-the-Plex-Audiobook/B004UN8UD2)
->
-How Google Thinks, Works, and Shapes Our Lives
+> How Google Thinks, Works, and Shapes Our Lives
+
 Don't be evil. That's Google's official motto. But what's really going on behind that simple little search box? Wired's Steven Levy guides us through a history of the rise of the internet, the development of complicated search algorithms, and, in many ways, a who's who of Silicon Valley â€” all beautifully narrated by L.J. Ganser.
 
 What started as two geeks obsessed with improving internet search engines rapidly ballooned into a company eager to gobble up other useful startups (Keyhole Inc., YouTube, Picassa) as well as larger, more obviously valuable companies (most notably the marketing goliath, DoubleClick). Google's strategy has also been a game-changer in regards to the way we use data and cloud computing. Thanks to its highly lucrative AdWords and AdSense programs, the company exploded the way people think about the internet and the way people think about making money on the internet.
