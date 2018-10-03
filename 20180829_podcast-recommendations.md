@@ -8,6 +8,13 @@
 * Episode 034 - Why Static Site Generators are Awesome
 * __Episode 043__ - 20 JavaScript Array and Object Methods to make you a better developer
 
+## [React Podcast](https://reactpodcast.simplecast.fm/)
+> Conversations about React with your favorite developers.
+
+### Power Episodes
+* Episode 13 - Gatsby and GraphQL with Kurt Kemple
+* Episode 21 - Delete Your Components with Kent C. Dodds
+
 ## [The Changlelog](https://changelog.com/podcast)
 > Conversations with the hackers, leaders, and innovators of software development.
 
@@ -23,3 +30,10 @@
 
 ### Power Episodes
 __ALL OF FIRST SEASON__
+
+
+## [Full Stack Radio](http://www.fullstackradio.com/)
+> A podcast for developers interested in building great software products. Every episode, Adam Wathan is joined by a guest to talk about everything from product design and user experience to unit testing and system administration.
+
+### Power Episodes
+* __Episode 97__ - Ryan Florence - Building Accessible UI Components
